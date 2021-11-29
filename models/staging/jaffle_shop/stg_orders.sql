@@ -5,3 +5,5 @@ select
     status
 
 from raw.jaffle_shop.orders
+
+
